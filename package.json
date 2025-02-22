@@ -1,0 +1,17 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "Backend Project",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs",
+    "Express",
+    "MongoDB"
+  ],
+  "author": "Amartya",
+  "license": "ISC"
+}
